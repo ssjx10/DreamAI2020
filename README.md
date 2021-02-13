@@ -20,7 +20,7 @@ Project 예선 기간: 2020년 11월 4일 → 2020년 11월 13일
 
 CT/X-ray 등의 의료 영상은 COVID-19 진단에 중추적 역할을 한다. 그리고 기침은 COVID-19의 주요 증상이므로 COVID-19 양성 사례를 감지하는데 도움이 될 수 있다. 본 챌린지에서는 이미지와 오디오를 동시에 통합하는 DL 파이프라인을 구축하여 정확도를 향상시키는 것을 목표로 한다.
 
-![DreamAI%202020%2095ed75554398446da2b64707375eb0bf/Untitled.png](DreamAI%202020%2095ed75554398446da2b64707375eb0bf/Untitled.png)
+![DreamAI%202020%2095ed75554398446da2b64707375eb0bf/Untitled.png](image/Untitled.png)
 
 # Reference Dataset
 
@@ -50,7 +50,7 @@ CT/X-ray 등의 의료 영상은 COVID-19 진단에 중추적 역할을 한다. 
 - Spearation loss : 다른 domain의 다른 label을 가지는 data들의 거리를 최대화
 - 위 loss를 이용하여 audio model의 성능을 향상
 
-![DreamAI%202020%2095ed75554398446da2b64707375eb0bf/Untitled%201.png](DreamAI%202020%2095ed75554398446da2b64707375eb0bf/Untitled%201.png)
+![DreamAI%202020%2095ed75554398446da2b64707375eb0bf/Untitled%201.png](image/Untitled%201.png)
 
 ## Delployment
 
@@ -59,7 +59,7 @@ CT/X-ray 등의 의료 영상은 COVID-19 진단에 중추적 역할을 한다. 
 
 # Demo Website
 
-![DreamAI%202020%2095ed75554398446da2b64707375eb0bf/Untitled%202.png](DreamAI%202020%2095ed75554398446da2b64707375eb0bf/Untitled%202.png)
+![DreamAI%202020%2095ed75554398446da2b64707375eb0bf/Untitled%202.png](image/Untitled%202.png)
 
 # 평가 기준
 
